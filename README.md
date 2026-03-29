@@ -16,4 +16,4 @@ This is [Autorun](https://github.com/vurvdev/Autorun-rs) for the next generation
 
 ## Documentation
 
-[The Autorun-ng documentation page can be found here.](https://thevurv.github.io/Autorun-ng)
+[The Autorun-ng documentation page can be found here.](https://vurvdev.github.io/Autorun-ng)
